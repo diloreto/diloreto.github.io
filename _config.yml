@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -14,3 +15,6 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-tactile
+=======
+theme: jekyll-theme-midnight
+>>>>>>> 739eb79cfb12f54d7aeaf64812662d041a2e88d2
